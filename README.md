@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+"C:\Users\vaibhav umbarkar\Pictures\Screenshots\Screenshot 2025-11-17 172012.png"
 
 
 🎬 ****IMDb Movie Sales Analysis – Power BI Project****
