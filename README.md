@@ -97,6 +97,8 @@ Example: Action|Adventure|Sci-Fi → Action, Adventure, Sci-Fi
 ---
 
 📈 **Dashboard Link**:
+<img width="1103" height="400" alt="Screenshot 2025-11-17 172012" src="https://github.com/user-attachments/assets/bf5d4a68-2592-4363-bbb6-671f8d7a2257" />
+
 
 🔗 View Complete Power BI Dashboard:
 https://app.powerbi.com/groups/me/reports/8e95c9ea-3a37-485f-bb63-1750817e7d08/eb72fb596c0210a16297?experience=power-bi
@@ -106,6 +108,7 @@ https://app.powerbi.com/groups/me/reports/8e95c9ea-3a37-485f-bb63-1750817e7d08/e
 🖼️ **Project Files**:
 
 📊 Dataset
+
 📝 Project Presentation (PPT/PDF)
 
 ---
