@@ -1,3 +1,4 @@
+<img width="1203" height="638" alt="image" src="https://github.com/user-attachments/assets/04a09067-1171-46c9-8c5c-bf4888fbce93" />
 
 🎬 ****IMDb Movie Sales Analysis – Power BI Project****
 
