@@ -1,5 +1,8 @@
-🎬 ****IMDb Movie Sales Analysis – Power BI Project****
 ![Uploading image.png…]()
+
+
+🎬 ****IMDb Movie Sales Analysis – Power BI Project****
+
 
 
 This project presents an in-depth analysis of IMDb movie data using Power BI.
