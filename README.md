@@ -97,7 +97,7 @@ Example: Action|Adventure|Sci-Fi → Action, Adventure, Sci-Fi
 ---
 
 📈 **Dashboard Link**:
-<img width="1103" height="400" alt="Screenshot 2025-11-17 172012" src="https://github.com/user-attachments/assets/bf5d4a68-2592-4363-bbb6-671f8d7a2257" />
+<img width="1000" height="400" alt="Screenshot 2025-11-17 172012" src="https://github.com/user-attachments/assets/bf5d4a68-2592-4363-bbb6-671f8d7a2257" />
 
 
 🔗 View Complete Power BI Dashboard:
