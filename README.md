@@ -1,5 +1,3 @@
-![Uploading Screenshot 2025-11-17 172012.png…]()
-
 
 🎬 ****IMDb Movie Sales Analysis – Power BI Project****
 
@@ -9,7 +7,7 @@ This project presents an in-depth analysis of IMDb movie data using Power BI.
 The goal is to identify key trends in movie performance, including revenue, ratings, genres, and runtime impact.
 All insights are based on a cleaned dataset of 1,000 movies.
 
-
+---
 
 📌 **Project Overview**
 
@@ -23,7 +21,7 @@ Using IMDb data, this project explores:
 
 This analysis helps uncover audience preferences and factors that drive movie success.
 
-
+---
 
 🎯 **Business Objectives**
 
@@ -32,7 +30,7 @@ This analysis helps uncover audience preferences and factors that drive movie su
 ⏳ Understand the impact of movie runtime on ratings & revenue
 📈 Analyse yearly trends in movie releases and revenue
 
-
+---
 
 🛠️ **Approach**
 
@@ -41,14 +39,14 @@ This analysis helps uncover audience preferences and factors that drive movie su
 ⏱️ Evaluated the effect of runtime on ratings & revenue
 🖥️ Designed a Power BI dashboard to present insights clearly
 
-
+---
 
 🧹 **Data Preparation**
 
 📁 Dataset Used: IMDb Movie Dataset
 📌 Size: 1,000 Records • 12 Columns
 
-
+---
 
 🔧 **Cleaning Steps**
 
@@ -63,7 +61,7 @@ This analysis helps uncover audience preferences and factors that drive movie su
 
 Example: Action|Adventure|Sci-Fi → Action, Adventure, Sci-Fi
 
-
+---
 
 📊 **Key Insights**
 ⭐ Movie Release Trends
@@ -72,14 +70,14 @@ Example: Action|Adventure|Sci-Fi → Action, Adventure, Sci-Fi
 ⬇️ From 2008 to 2015, movie releases gradually decreased
 📈 Revenue increased consistently from 2011 to 2016, peaking at 11B
 
-
+---
 
 ⭐ **Genres & Ratings**
 
 🎨 Animation & 🧑‍🎨 Biography → Highest average rating: 7.3
 🎭 Drama → Strong performance with a rating of 7.0
 
-
+---
 
 ⭐ **Top Directors by Revenue**:
 
@@ -87,7 +85,7 @@ Example: Action|Adventure|Sci-Fi → Action, Adventure, Sci-Fi
 🎥 David Yates → High revenue
 🎞️ Christopher Nolan → Strong performer
 
-
+---
 
 ⭐ **Impact of Runtime**:
 
@@ -95,21 +93,21 @@ Example: Action|Adventure|Sci-Fi → Action, Adventure, Sci-Fi
 📈 Longer runtime increases both ratings and revenue
 ⚠️ Movies over 180 minutes show mixed performance
 
-
+---
 
 📈 **Dashboard Link**:
 
 🔗 View Complete Power BI Dashboard:
 https://app.powerbi.com/groups/me/reports/8e95c9ea-3a37-485f-bb63-1750817e7d08/eb72fb596c0210a16297?experience=power-bi
 
-
+---
 
 🖼️ **Project Files**:
 
 📊 Dataset
 📝 Project Presentation (PPT/PDF)
 
-
+---
 
 📌 **Conclusion**
 
@@ -122,7 +120,7 @@ This analysis clearly shows that:
 
 This project demonstrates how data analytics can deliver powerful insights into the movie industry.
 
-
+---
 
 🙌 **Connect With Me**
 
